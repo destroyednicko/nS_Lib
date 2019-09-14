@@ -1,0 +1,7 @@
+name: nStorm_Lib
+version: 1.0
+author: yNickoKun, jeanSTORM
+main: kun.nicko.Main
+description: Lib for nStorm line plugins.
+commands:
+  api:
